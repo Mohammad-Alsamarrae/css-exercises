@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-numbered, .third-element {
+    background-color: rgb(255, 166, 166);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-element {
+    color: rgb(33, 53, 236);
+    font-size: 36px;
+}
+
+#forth-element {
+    background-color: rgb(118, 238, 118);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.third-element {
+    font-size: 24px;
+}
